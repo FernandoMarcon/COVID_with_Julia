@@ -8,3 +8,4 @@ https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-th
 
 https://github.com/mitmath/6S083
 
+link for original notebooks: https://github.com/mitmath/6S083/tree/master/lectures/live

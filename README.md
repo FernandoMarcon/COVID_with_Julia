@@ -1,4 +1,4 @@
-COVID-19 Data Analysis with Julia
+# COVID-19 Data Analysis with Julia
 
 Install Julia:
 https://github.com/mitmath/6S083/blob/master/installation.md
